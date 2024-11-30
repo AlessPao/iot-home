@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlessPao/iot-home/static/css/main.0024382e.css",
+    "main.js": "/AlessPao/iot-home/static/js/main.bbab8163.js",
+    "static/js/453.abde91ec.chunk.js": "/AlessPao/iot-home/static/js/453.abde91ec.chunk.js",
+    "index.html": "/AlessPao/iot-home/index.html",
+    "main.0024382e.css.map": "/AlessPao/iot-home/static/css/main.0024382e.css.map",
+    "main.bbab8163.js.map": "/AlessPao/iot-home/static/js/main.bbab8163.js.map",
+    "453.abde91ec.chunk.js.map": "/AlessPao/iot-home/static/js/453.abde91ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0024382e.css",
+    "static/js/main.bbab8163.js"
+  ]
+}
